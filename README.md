@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-# you Can see the project in [https://next-js-meetups-tau.vercel.app/](MeetUps)
+## You Can see the project in [MeetUps](https://next-js-meetups-tau.vercel.app/)
 
 ## Getting Started
 
